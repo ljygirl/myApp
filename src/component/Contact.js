@@ -1,0 +1,13 @@
+import React from "react"
+const Contact=()=>{
+    return(
+        <div>
+            <div className="container">
+                <h3 className="center">Contact页面</h3>
+                <p>欢迎来到Contact页</p>
+            </div>
+        </div>
+    )
+}
+
+export default Contact
